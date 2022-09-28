@@ -1,7 +1,7 @@
 import acm.graphics.GImage;
 //no
 //hello
-//one more time
+//aroudn the world
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
 
