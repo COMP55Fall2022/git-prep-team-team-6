@@ -1,4 +1,5 @@
 import acm.graphics.GImage;
+//no
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
 
